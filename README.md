@@ -1,6 +1,6 @@
-# Introduction to Git and GitHub
+© 2022 XYZ, Inc.
 
-## Simple Interest Calculator
+© 2021 XYZ, Inc.
 
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
